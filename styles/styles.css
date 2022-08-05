@@ -673,4 +673,40 @@ section {
   -webkit-clip-path: circle();
           clip-path: circle();
 }
+
+.donut img {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -o-object-fit: contain;
+     object-fit: contain;
+  width: 100%;
+}
+
+.grass img {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -o-object-fit: contain;
+     object-fit: contain;
+  width: 100%;
+}
+
+.hammer img {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -o-object-fit: contain;
+     object-fit: contain;
+  width: 100%;
+}
+
+.buildings img {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -o-object-fit: contain;
+     object-fit: contain;
+  width: 100%;
+}
 /*# sourceMappingURL=styles.css.map */
